@@ -1,0 +1,10 @@
+/vendor/
+
+
+/var/
+
+
+/assets/vendor
+
+
+.env
